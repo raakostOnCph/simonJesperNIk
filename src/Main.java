@@ -11,6 +11,10 @@ public class Main {
         System.out.println("hej NIk");
 
         System.out.println("Grimrian");
+
+        System.out.println("Slap dog af man!");
     }
+
+
 
 }
