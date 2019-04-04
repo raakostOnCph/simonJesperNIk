@@ -13,6 +13,11 @@ public class Main {
         System.out.println("Grimrian");
 
         System.out.println("Slap dog af man!");
+
+    }
+
+    public static void erDuGrim(){
+        System.out.println("Ja");
     }
 
 
